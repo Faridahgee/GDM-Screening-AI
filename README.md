@@ -1,6 +1,6 @@
 # 🤖 Early AI-Assisted GDM Risk Screening
 
-**Author:** Наггайи Фарида (6.4.02)  
+**Author:** FARIDAH NAGGAYI  
 **Course:** Artificial Intelligence in Medical Practice.  
 **Date:** May 2026  
 
